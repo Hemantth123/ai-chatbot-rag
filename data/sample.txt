@@ -1,0 +1,188 @@
+Q: hi
+A: Hello! How can I help you today?
+
+Q: hello
+A: Hi there! What can I do for you?
+
+Q: hey
+A: Hey! Need any help?
+
+Q: good morning
+A: Good morning! Have a great day.
+
+Q: good evening
+A: Good evening! How can I assist you?
+
+Q: what is your name
+A: I am your mini AI chatbot.
+
+Q: who made you
+A: I was created by Hemanth.
+
+Q: how are you
+A: I am doing well. Thanks for asking.
+
+Q: what can you do
+A: I can answer questions and help with basic information.
+
+Q: thank you
+A: You're welcome!
+
+Q: bye
+A: Goodbye! See you soon.
+
+Q: what is python
+A: Python is a popular programming language.
+
+Q: what is java
+A: Java is an object-oriented programming language.
+
+Q: what is html
+A: HTML is used to create web pages.
+
+Q: what is css
+A: CSS is used to style web pages.
+
+Q: what is javascript
+A: JavaScript adds interactivity to websites.
+
+Q: what is ai
+A: AI stands for Artificial Intelligence.
+
+Q: what is machine learning
+A: Machine learning is a branch of AI.
+
+Q: what is deep learning
+A: Deep learning uses neural networks to learn patterns.
+
+Q: what is data science
+A: Data science is the study of data for insights.
+
+Q: what is sql
+A: SQL is used to manage databases.
+
+Q: what is api
+A: API allows two applications to communicate.
+
+Q: what is rest api
+A: REST API is a web service using HTTP methods.
+
+Q: what is json
+A: JSON is a lightweight data format.
+
+Q: what is chatbot
+A: A chatbot is a program that talks with users.
+
+Q: what is flask
+A: Flask is a Python web framework.
+
+Q: what is django
+A: Django is a powerful Python framework.
+
+Q: what is fastapi
+A: FastAPI is a modern Python API framework.
+
+Q: what is git
+A: Git is a version control system.
+
+Q: what is github
+A: GitHub is a platform to host code repositories.
+
+Q: what is linux
+A: Linux is an open-source operating system.
+
+Q: what is cloud computing
+A: Cloud computing provides services over the internet.
+
+Q: what is aws
+A: AWS is Amazon Web Services cloud platform.
+
+Q: what is azure
+A: Azure is Microsoft's cloud platform.
+
+Q: what is docker
+A: Docker is used to run apps in containers.
+
+Q: what is kubernetes
+A: Kubernetes manages containers at scale.
+
+Q: tell me a joke
+A: Why do programmers prefer dark mode? Because light attracts bugs.
+
+Q: motivate me
+A: Keep learning daily. Small progress becomes big success.
+
+Q: how to get job
+A: Build projects, improve resume, and apply consistently.
+
+Q: how to learn coding
+A: Practice daily, build projects, and solve problems.
+
+Q: what is resume
+A: A resume is a summary of your skills and experience.
+
+Q: what is interview
+A: An interview is a discussion to evaluate a candidate.
+
+Q: what is oops
+A: OOPS means Object-Oriented Programming System.
+
+Q: what is inheritance
+A: Inheritance allows one class to use properties of another.
+
+Q: what is polymorphism
+A: Polymorphism means one interface with many forms.
+
+Q: what is encapsulation
+A: Encapsulation binds data and methods together.
+
+Q: what is abstraction
+A: Abstraction hides complexity and shows essentials.
+
+Q: what is variable
+A: A variable stores data values.
+
+Q: what is function
+A: A function is a reusable block of code.
+
+Q: what is loop
+A: A loop repeats code multiple times.
+
+Q: what is list
+A: A list stores multiple values in Python.
+
+Q: what is tuple
+A: A tuple is an immutable collection in Python.
+
+Q: what is dictionary
+A: A dictionary stores key-value pairs.
+
+Q: what is set
+A: A set stores unique values.
+
+Q: what is exception
+A: Exception is an error handled in code.
+
+Q: what is debugging
+A: Debugging means finding and fixing errors.
+
+Q: what is frontend
+A: Frontend is the user interface part of an app.
+
+Q: what is backend
+A: Backend handles logic, server, and database.
+
+Q: what is database
+A: A database stores organized data.
+
+Q: what is mongodb
+A: MongoDB is a NoSQL database.
+
+Q: what is mysql
+A: MySQL is a relational database.
+
+Q: what is postman
+A: Postman is used to test APIs.
+
+Q: what is streamlit
+A: Streamlit helps build data apps in Python quickly.

@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+pydantic
+langchain
+langchain-community
+langchain-text-splitters
+langchain-ollama
+faiss-cpu
+reportlab
+langchain-experimental
+numexpr
